@@ -21,7 +21,6 @@ Desenvolva um algoritmo utilizando a linguagem de programação C para atender �
 * C
 
 ## IDE
-Microsoft Visual Studio Community 2022 - Version 17.8.0
-
+Microsoft Visual Studio Code  - Version 1.89.1
 
 Desenvolvedora: Avany Souza
