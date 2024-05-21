@@ -1,7 +1,7 @@
 # Calculadora em C 🔢
 
 ## Descrição
-Exercício realizado para avaliação da disciplina Introdução à Lógica de Programação da minha graduação em Sistemas de Informação.
+Exercício realizado para avaliação da disciplina "Introdução à Lógica de Programação" da minha graduação em Sistemas de Informação.
 
 ## Enunciado
 
